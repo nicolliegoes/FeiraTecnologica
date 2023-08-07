@@ -1,2 +1,2 @@
 # FeiraTecnologica
-https://github.com/nicolliegoes/FeiraTecnologica
+https://nicolliegoes.github.io/FeiraTecnologica/
