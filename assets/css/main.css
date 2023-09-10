@@ -2667,3 +2667,43 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.accordion{
+  padding: 3rem;
+  border-width: 2px;
+  color: var(--bs-body-color);
+}
+
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+    font-size: 1rem;
+    color: white;
+    text-align: left;
+    background-color: var(--color-primary);
+    border: 0;
+    border-color: #4CAF50;
+    border-radius: 0;
+    overflow-anchor: none;
+}
+
+.accordion-button:not(.collapsed) {
+  color: white;
+  background-color: #4CAF50;
+}
+
+.subtitulo{
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.alert-success {
+    color: var(--color-primary);
+    border-color: #4CAF50;
+}
