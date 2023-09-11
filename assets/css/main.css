@@ -21,7 +21,7 @@
 :root {
   --color-default: #222222;
   --color-primary: #A3B18A;
-  --color-secondary: #f85a40;
+  --color-secondary: #344e41;
 }
 
 /* Smooth scroll behavior */
@@ -320,7 +320,7 @@ section {
 }
 
 .header .logo h1 span {
-  color: #f96f59;
+  color: #344e41;
 }
 
 .sticked-header-offset {
@@ -1633,7 +1633,7 @@ section {
 }
 
 .faq .accordion-button:not(.collapsed) {
-  color: var(--color-primary);
+  /* color: var(--color-primary); */
   border-bottom: 0;
   box-shadow: none;
 }
